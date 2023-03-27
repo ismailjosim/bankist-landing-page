@@ -8,9 +8,10 @@
 
 <h3>Build with:</h3>
 
-* HTML5
-* CSS3
-* JS
+* <img width='20' src='img/html.png'/> HTML5
+
+* <img width='20' src='img/css.png'/> CSS3
+* <img width='20' src='img/javascript.png'/> JS
 
 <h2>Screenshots of the Project 🖼️</h2>
 
